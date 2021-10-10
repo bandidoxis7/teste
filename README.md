@@ -15,6 +15,7 @@ primeiro site
         }
     </style>
     <title>Wordgames</title>
+    <p> site de jogos </p>
 </head>
 <body>
     <H1><p>TESTE &copy;</p></H1> 
